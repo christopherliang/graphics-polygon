@@ -1,6 +1,10 @@
 #test box mesh
+polygon
+0 0 0 100 0 0 0 100 0
+display
+clear
 box
-0 0 0 200 100 400
+300 500 0 200 100 400
 ident
 xrotate
 20

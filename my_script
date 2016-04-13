@@ -1,0 +1,21 @@
+sphere
+0 50 200
+torus
+0 0 75 250
+ident
+yrotate
+72
+apply
+sphere
+100 0 10 250
+ident
+xrotate
+30
+translate
+250 325 0
+xrotate
+30
+apply
+display
+save hello.gif
+quit
